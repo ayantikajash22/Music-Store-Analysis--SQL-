@@ -83,11 +83,27 @@ SELECT * FROM media_type;
 SELECT * FROM track;
 SELECT * FROM playlist;
 SELECT * FROM playlist_track;
-
+````
 
 ---
 
-## Technology Stack
-- **Database**: PostgreSQL
-- **SQL Queries**: Aggregations, Joins, Subqueries, CTE
-- **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
+## **Project Goal**
+
+This project demonstrates practical SQL skills in:
+
+* Aggregation and grouping
+* Joins across multiple tables
+* Subqueries and correlated queries
+* Data analysis for business insights
+* Ordering, filtering, and ranking results
+
+---
+
+## **Technology Stack**
+
+* **Database**: PostgreSQL
+* **SQL Queries**: Aggregations, Joins, Subqueries, CTE
+* **Tools**: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
+
+---
+
